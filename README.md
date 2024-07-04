@@ -94,11 +94,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mfhf01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ASohelRana&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/mfhf01/mfhf01/output/snake.svg" alt="Snake animation" />
-
-###
